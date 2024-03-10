@@ -17,6 +17,8 @@ Julia_Gillard
 Magaret_Tarcher
 Nelson_Mandela
 
+You can get datset from https://www.kaggle.com/kongaevans/speaker-recognition-dataset
+
 
 # USAGE 
 
